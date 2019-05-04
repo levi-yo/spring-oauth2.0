@@ -1,0 +1,4 @@
+client_id : 62c92d87-4b7d-4c13-a3e9-36ee3e82fe0e
+client_secret : aee9339d-7cc2-4f5a-8657-db5771fb522f
+
+http://localhost:8080/oauth/authorize?client_id=62c92d87-4b7d-4c13-a3e9-36ee3e82fe0e&redirect_uri=http://localhost:9000/callback&response_type=code&scope=read&state=xyz
